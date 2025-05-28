@@ -5,7 +5,7 @@
 - Python class (`Transaction`) to encapsulate transaction logic
 - Cleaning dirty fields (e.g. cities, coupon codes)
 - Extracting discounts from coupon codes using regex
-- Outputs saved as JSON (and optionally Parquet)
+- Outputs saved as JSON and Parquet
 -
 
 MY OTHER GIT REPO
